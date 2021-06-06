@@ -1,0 +1,25 @@
+//Total books
+5
+//ISSN	Title; first line
+//Authors; third line
+//CARD CAIB
+
+3 C++ Programming
+D.S. Malik
+3 4
+
+2 Elementary Linear Algebra
+Howard Anton, Chris Rorres
+4 5
+
+5 Discrete Maths and its Applications
+Kenneth H. Rosen
+4 4
+
+4 Organizational Behavior
+Stephen P. Robbins, Timothy A. Judge
+3 3
+
+1 Numerical Analysis
+Richard L. Burden, J. Douglas Faires
+2 2
